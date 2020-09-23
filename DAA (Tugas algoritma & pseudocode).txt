@@ -1,0 +1,20 @@
+Tugas Algoritma & Pseudocode
+
+Algoritma menghitung umur seseorang
+
+ALGORITMA :
+
+Step 1 > Masukkan tahun sekarang (ts)
+Step 2 > Masukkan tahun lahir (tl)
+Step 3 > Hitung menggunakan rumus : ts – tl
+Step 4 > Tampilkan jumlah umur
+Step 5 > Selesai
+
+PSEUDOCODE :
+ts,tl,umur : integer
+     
+input ts
+input tl
+umur ← ts - tl     
+
+print ("umur anda adalah ", umur)
